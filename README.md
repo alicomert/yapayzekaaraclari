@@ -1,6 +1,6 @@
 # 7 farklı kategoriden 7 en iyi YAPAY ZEKA aracı 🤖🧠
 
-[kaydedin lazım olur 🧵]
+[yıldızlayın lazım olur 🧵]
 
 1. [2Short.AI](http://2short.ai) - 🎥 YouTube videolarından kısa video içerikler üret
 
