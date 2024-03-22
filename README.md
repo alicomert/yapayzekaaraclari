@@ -1,6 +1,5 @@
 # 7 farklı kategoriden 7 en iyi YAPAY ZEKA aracı 🤖🧠
 
-[yıldızlayın lazım olur 🧵]
 # Kaynak: [7 Farklı Kategoriden 7 En İyi Yapay Zeka Aracı](https://kodluk.com/konu/7-farkli-kategoriden-7-en-iyi-yapay-zeka-araci.14/)
 
 1. [2Short.AI](http://2short.ai) - 🎥 YouTube videolarından kısa video içerikler üret
